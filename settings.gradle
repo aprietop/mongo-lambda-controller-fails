@@ -1,0 +1,5 @@
+
+rootProject.name="mongo-lambda-controller-fails"
+
+include("app")
+include("infra")
